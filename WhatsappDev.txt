@@ -7,3 +7,5 @@ Author: Ranjith
 3.Status Code
 
 4.Video call code
+
+5.Hide last seen code
