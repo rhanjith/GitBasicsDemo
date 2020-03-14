@@ -13,3 +13,5 @@ Author: Ranjith
 6.Youtube in play option in whatsapp
 
 7.Videosttus implemetation code
+
+8.Attachements feature added
