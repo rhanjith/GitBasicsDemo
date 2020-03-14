@@ -11,3 +11,5 @@ Author: Ranjith
 5.Hide last seen code
 
 6.Youtube in play option in whatsapp
+
+7.Videosttus implemetation code
