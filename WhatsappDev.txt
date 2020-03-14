@@ -1,6 +1,6 @@
 Author: Ranjith
 
-1.Prfile page code
+1.Profile page code
 
 2.Last seen code
 
