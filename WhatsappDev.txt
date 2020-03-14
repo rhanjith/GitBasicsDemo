@@ -9,3 +9,5 @@ Author: Ranjith
 4.Video call code
 
 5.Hide last seen code
+
+6.Youtube in play option in whatsapp
